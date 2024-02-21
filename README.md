@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/dsman97"><img src="https://api.daily.dev/devcards/v2/Au1ckRXFvsPgbMFGycVJb.png?r=0qn&type=default" width="356" alt="DSMan97's Dev Card"/></a>
+
+<a href="https://app.daily.dev/dsman97"><img src="./devcard.png"  width="356" alt="DSMan97's Dev Card"/></a>
 <!--
 **DSMan97/DSMan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
